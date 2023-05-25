@@ -1,0 +1,8 @@
+hackyargparser
+keyboard
+kthread_sleep
+numpy
+opencv_python
+subprocess_alive
+subprocess_multipipe
+varpickler
